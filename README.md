@@ -8,7 +8,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 
-您是我第![Visitor Count](https://profile-counter.glitch.me/jikekei/count.svg) 位访客，谢谢你！:kissing_heart::kissing_heart:
+您是我第![Visitor Count](https://profile-counter.glitch.me/jikekei/count.svg) 位访客，谢谢你！:kissing_heart::kissing_heart
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jikekei&layout=compact&theme=tokyonight)
+
 
 ### My Skill Set
 
