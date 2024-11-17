@@ -15,5 +15,5 @@
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/c#-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+C#与Python
 
