@@ -1,10 +1,10 @@
 ### 你好我是 👋,疑名.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+- 🔭 我目前正在做一些很酷的事情。
+- 🌱 我目前正在学习我喜欢的一切。
+- 💬 向我询问与 C#/Python 相关的任何事情。
+- 📫 如何联系我： liseximt@outlook.com ，QQ:3037240065
+- 😄 在此处阅读有关我的 CSDN 的更多信息
 
 ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 
