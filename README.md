@@ -30,24 +30,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikekei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://profile-counter.glitch.me/jikekei/count.svg" alt="Visitor Count">
-  <br/>
-  <b>感谢您的第 <img src="https://profile-counter.glitch.me/jikekei/count.svg" height="15"> 位访问！ 💖</b>
-
-</div>
