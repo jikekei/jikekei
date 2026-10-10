@@ -21,7 +21,7 @@ C#、Python，以及所有值得尝试的技术
 偏向服务端与机器人方向，欢迎交流 **C# / Python** 相关话题  
 
 <a href="mailto:liseximt@Outlook.com">
-  <img src="https://img.shields.io/badge/Email-yiming@hmyhserver.top-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-liseximt@Outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="tencent://message/?uin=3037240065">
   <img src="https://img.shields.io/badge/QQ-3037240065-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" />
