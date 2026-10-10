@@ -4,7 +4,7 @@
 
 把想法写成代码，把复杂问题拆成清晰、可维护的系统。
 
-[Email](mailto:liseximt@Outlook.com) · QQ：`3037240065`
+[Email](mailto:liseximt@Outlook.com) 
 
 </div>
 
