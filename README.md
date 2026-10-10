@@ -1,50 +1,25 @@
-## 👋 你好，我是 **疑名（Yiming）**
+# 疑名 · Yiming
 
-一名学生，  
-**打游戏不行，写代码还行。**
+**学生开发者 · 服务端开发 · 机器人自动化**
 
-主要使用 **Python / C# / HTML / JavaScript**，  
-专注于 **服务端开发 & 机器人开发**。  
-持续学习，用代码解决问题。
+把想法写成代码，把复杂问题拆成清晰、可维护的系统。
 
----
-
-<div align="center">
-
-🔭 **当前状态**  
-正在折腾一些有意思的项目  
-
-🌱 **学习中**  
-C#、Python，以及所有值得尝试的技术  
-
-💬 **关于我**  
-偏向服务端与机器人方向，欢迎交流 **C# / Python** 相关话题  
-
-<a href="mailto:liseximt@Outlook.com">
-  <img src="https://img.shields.io/badge/Email-liseximt@Outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="tencent://message/?uin=3037240065">
-  <img src="https://img.shields.io/badge/QQ-3037240065-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" />
-</a>
+[Email](mailto:liseximt@Outlook.com) · QQ：`3037240065`
 
 </div>
 
 ---
 
-## 🧠 技能与方向
+### 关于我
 
-**💻 编程语言**
+专注于服务端、游戏插件系统、机器人自动化与桌面工具。关注并发处理、多线程协作、权限控制与业务逻辑设计，重视稳定性、执行效率和代码的可维护性。
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 技术栈
 
-**⚙️ 技术方向**
+`C#` · `Python` · `HTML` · `JavaScript`
 
-- 专注 **服务端开发、游戏插件系统与机器人自动化**  
-- 擅长 **高并发、多线程、权限与逻辑控制**  
-- 热衷于将复杂规则落地为 **稳定、高效、可维护的系统**
+### 持续探索
 
-**主要技能栈**：  
-`C#` `Python` `服务端` `插件开发` `机器人开发` `桌面工具`
+- **服务端与插件** — 构建清晰的业务逻辑与可扩展的功能模块。
+- **机器人与工具** — 用自动化减少重复操作，解决实际问题。
+- **学习与实践** — 持续深入 C#、Python，在项目中学习值得尝试的技术。
