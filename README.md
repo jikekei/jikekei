@@ -20,7 +20,7 @@ C#、Python，以及所有值得尝试的技术
 💬 **关于我**  
 偏向服务端与机器人方向，欢迎交流 **C# / Python** 相关话题  
 
-<a href="mailto:yiming@hmyhserver.top">
+<a href="mailto:liseximt@Outlook.com">
   <img src="https://img.shields.io/badge/Email-yiming@hmyhserver.top-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="tencent://message/?uin=3037240065">
